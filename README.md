@@ -5,7 +5,7 @@
 * [Información personal](#información-personal)
 * [Acerca de mí](#acerca-de-mí)
 * [Proyectos](#proyectos)
-* [Intereses](#intereses)
+* [Intereses y Hobbies](#intereses-y-hobbies)
 
 ## Información personal
 * Edad: 20 años
@@ -31,7 +31,7 @@
       <article>
         <p>#2</p>
         <img src="img/img2.png" width ="200px">
-        <h3>Tienda de Videojuegos</h3>
+        <h3><a href="https://github.com/DereckSantander/EDD-G3">Tienda de Videojuegos</a></h3>
       </article>
     </th>
     <th>
