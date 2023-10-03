@@ -38,7 +38,7 @@
       <article>
         <p>#3</p>
         <img src="img/img3.png" width ="200px">
-        <h3>Sistema Donación de Sangre</h3>
+        <h3><a href="https://github.com/mbravop/ProyectoBaseDeDatos">Sistema Donación de Sangre</a></h3>
       </article>
     </th>
     <th>
