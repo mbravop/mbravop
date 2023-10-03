@@ -1,4 +1,5 @@
 # Mi sitio personal
+<h2>Mauricio Bravo</h2>
 Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis
 proyectos y mis intereses.
 ## Contenido
@@ -6,10 +7,9 @@ proyectos y mis intereses.
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
 ## Información personal
-* Nombre: [Tu nombre]
-* Ocupación: [Tu ocupación]
-* Lugar de residencia: [Tu lugar de residencia]
-* Sitio web: [Tu sitio web]
+* Edad: 20 años
+* Ocupación: Estudiante de Ingeniería en Computación - ESPOL
+* Lugar de residencia: Guayaquil - Ecuador 🇪🇨
 ## Proyectos
 * [Lista de tus proyectos]
 ## Intereses
