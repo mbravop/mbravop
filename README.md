@@ -24,7 +24,7 @@
       <article>
         <p>#1</p>
         <img src="img/img1.png" width ="200px">
-        <h3>Código de Huffman</h3>
+        <h3><a href="https://github.com/mbravop/ejecutableDiscretas">Código de Huffman</a></h3>
       </article>
     </th>
     <th>
