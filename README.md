@@ -1,18 +1,56 @@
 # Mi sitio personal
-<h2>Mauricio Bravo</h2>
+¡Hola, soy Mauricio Bravo! Soy un apasionado desarrollador de software. Este es mi repositorio personal donde comparto algunos de los proyectos en los que he trabajado.
 
-Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis
-proyectos y mis intereses.
 ## Contenido
 * [Información personal](#información-personal)
+* [Acerca de mí](#acerca-de-mí)
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
+
 ## Información personal
 * Edad: 20 años
 * Ocupación: Estudiante de Ingeniería en Computación - ESPOL
 * Lugar de residencia: Guayaquil - Ecuador 🇪🇨
+
+## Acerca de mí
+- **Experiencia**: He sido ayudante de docencia en las materias de: Fundamentos de Programación, Programación Orientada a Objetos.
+- **Lenguajes**: Domino Python, Java y SQL.
+- **Objetivos**: Mi objetivo es aprender nuevas tecnologias, conocer más sobre desarrollo de aplicaciones y aportar a la comunidad con mis conocimientos.
+
 ## Proyectos
-* [Lista de tus proyectos]
+<table border='1' align="center">
+  <tr>
+    <th>
+      <article>
+        <p>#1</p>
+        <img src="img/img1.png" width ="200px">
+        <h3>Código de Huffman</h3>
+      </article>
+    </th>
+    <th>
+      <article>
+        <p>#2</p>
+        <img src="img/img2.png" width ="200px">
+        <h3>Tienda de Videojuegos</h3>
+      </article>
+    </th>
+    <th>
+      <article>
+        <p>#3</p>
+        <img src="img/img3.png" width ="200px">
+        <h3>Sistema Donación de Sangre</h3>
+      </article>
+    </th>
+    <th>
+      <article>
+        <p>#4</p>
+        <img src="img/img4.png" width ="200px">
+        <h3>BattleShip en Assembly</h3>
+      </article>
+    </th>
+  </tr>
+</table>
+
 ## Intereses
 * [Lista de tus intereses]
 
