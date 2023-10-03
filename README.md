@@ -51,8 +51,11 @@
   </tr>
 </table>
 
-## Intereses
-* [Lista de tus intereses]
+## Intereses y Hobbies
+* Me llama la atención la inteligencia artificial.
+* Sigo contenido relacionado a problemas matemáticos sin resolver.
+* Me gusta mucho hacer deporte, andar en bicicleta.
+* Soy fanático de las series de misterio.
 
 <!--
 **mbravop/mbravop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
