@@ -1,61 +1,58 @@
-# Mi sitio personal
-¡Hola, soy Mauricio Bravo! Soy un apasionado desarrollador de software. Este es mi repositorio personal donde comparto algunos de los proyectos en los que he trabajado.
+# mbravop
+Hi, I'm Mauricio Bravo! I'm a passionate software developer. This is my personal repository where I share some of the projects I have worked on.
 
-## Contenido
-* [Información personal](#información-personal)
-* [Acerca de mí](#acerca-de-mí)
-* [Proyectos](#proyectos)
-* [Intereses y Hobbies](#intereses-y-hobbies)
+## Content
+* [Personal information](#personal-information)
+* [About me](#about-me)
+* [Projects](#projects)
 
-## Información personal
-* Edad: 20 años
-* Ocupación: Estudiante de Ingeniería en Computación - ESPOL
-* Lugar de residencia: Guayaquil - Ecuador 🇪🇨
+## Personal information
+* Age: 21 years old
+* Occupation: Computer Engineering student at ESPOL
+* From: Guayaquil - Ecuador 🇪🇨
 
-## Acerca de mí
-- **Experiencia**: He sido ayudante de docencia en las materias de: Fundamentos de Programación, Programación Orientada a Objetos.
-- **Lenguajes**: Domino Python, Java y SQL.
-- **Objetivos**: Mi objetivo es aprender nuevas tecnologias, conocer más sobre desarrollo de aplicaciones y aportar a la comunidad con mis conocimientos.
+## About me
+- **Work Experience**:
+  * Assistant professor (2022-2024): I've taught Programming Fundamentals and Object Oriented Programming. I had to give classes and grade workshops, lessons, other academic activities.
+    * Internships:
+      * ESPOL (02/2024 - 04/2024): Worked on an AI project where the main objective was to develop an automatized tool to create feedback reports about students' contribution on virtual meetings. Done these activities: Work with Microsoft Graph, establish bot with Power Automate, gather transcriptions of Microsoft Teams' meetings, store on firebase database and storage, automate processes of uploading/downloading files, create technical reports and documentations.
+      * ESPOL (10/2023 - 01/2024): Contribute on an academic platform for high schoolers. Had to provide support (mail, phone) to users, maintenance of website with moodle, create video-tutorials of new functionalities.
+- **Languages**: Python, Java, SQL, Dart (Flutter).
+- **Objectives**: My goal is to learn new technologies, learn more about application development and contribute to the community with my knowledge.
 
-## Proyectos
+## Projects
 <table border='1' align="center">
   <tr>
     <th>
       <article>
         <p>#1</p>
         <img src="img/img1.png" width ="200px">
-        <h3><a href="https://github.com/mbravop/ejecutableDiscretas" target="_blank">Código de Huffman</a></h3>
+        <h3><a href="https://github.com/mbravop/ejecutableDiscretas" target="_blank">Huffman code representation</a></h3>
       </article>
     </th>
     <th>
       <article>
         <p>#2</p>
         <img src="img/img2.png" width ="200px">
-        <h3><a href="https://github.com/DereckSantander/EDD-G3">Tienda de Videojuegos</a></h3>
+        <h3><a href="https://github.com/DereckSantander/EDD-G3">VideoGame Store</a></h3>
       </article>
     </th>
     <th>
       <article>
         <p>#3</p>
         <img src="img/img3.png" width ="200px">
-        <h3><a href="https://github.com/mbravop/ProyectoBaseDeDatos">Sistema Donación de Sangre</a></h3>
+        <h3><a href="https://github.com/mbravop/ProyectoBaseDeDatos">Blood Donation System</a></h3>
       </article>
     </th>
     <th>
       <article>
         <p>#4</p>
         <img src="img/img4.png" width ="200px">
-        <h3><a href="https://github.com/mbravop/BattleshipAssembly">BattleShip en Assembly</a></h3>
+        <h3><a href="https://github.com/mbravop/BattleshipAssembly">BattleShip on Assembly</a></h3>
       </article>
     </th>
   </tr>
 </table>
-
-## Intereses y Hobbies
-* Me llama la atención la inteligencia artificial.
-* Sigo contenido relacionado a problemas matemáticos sin resolver.
-* Me gusta mucho hacer deporte, andar en bicicleta.
-* Soy fanático de las series de misterio.
 
 <!--
 **mbravop/mbravop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
